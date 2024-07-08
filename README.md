@@ -20,19 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Doce vício - música feita inteiramente com IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste projeto, fiz uma música completa, desde a letra até o áudio com IAs generativas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT, sunoAI e leonardoAI.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+ChatGPT para letra, sunoAI para voz e batidas e leonardoAI para capa.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A música e a capa estarão nos aquivos.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
